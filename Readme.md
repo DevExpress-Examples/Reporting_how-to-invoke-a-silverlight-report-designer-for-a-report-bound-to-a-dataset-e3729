@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[ReportService.svc.cs](./CS/ReportsSample.Web/ReportService.svc.cs) (VB: [ReportService.svc.vb](./VB/ReportsSample.Web/ReportService.svc.vb))**
+* [MainPage.xaml](./CS/ReportsSample/MainPage.xaml) (VB: [MainPage.xaml](./VB/ReportsSample/MainPage.xaml))
+<!-- default file list end -->
 # How to invoke a Silverlight Report Designer for a report bound to a dataset
 
 
