@@ -5,6 +5,9 @@
 * **[MainPage.xaml](./CS/ReportsSample/MainPage.xaml) (VB: [MainPage.xaml](./VB/ReportsSample/MainPage.xaml))**
 <!-- default file list end -->
 # How to invoke a Silverlight Report Designer for a report bound to a dataset
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3729)**
+<!-- run online end -->
 
 
 <p>This sample shows how you can provide an in-browser Report Designer in your Silverlight application for editing reports that are bound to a dataset.</p><p>See also:<br />
