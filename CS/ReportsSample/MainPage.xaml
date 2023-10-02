@@ -1,8 +1,0 @@
-﻿<UserControl x:Class="ReportsSample.MainPage"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:dxre="http://schemas.devexpress.com/winfx/2008/xaml/reportdesigner">
-    <dxre:ReportDesigner AutoStartDesign="True"
-                         ReportName="ReportLibrary.XtraReport1, ReportLibrary"
-                         ServiceUri="../ReportService.svc" />
-</UserControl>
